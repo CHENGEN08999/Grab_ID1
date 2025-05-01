@@ -180,6 +180,21 @@
   width: 100%;
   object-fit: cover;
 }
+.sekarang-pembangkit-yang {
+  margin: 0;
+  font-weight: 500;
+}
+.diperbaharui-ini-dapat {
+  font-weight: 500;
+  font-family: Inter;
+}
+.diperbaharui-ini-dapat-mengali,
+.sumber {
+  margin: 0;
+}
+.sumber {
+  font-weight: 800;
+}
 .sekarang-pembangkit-yang-container {
   position: absolute;
   top: 64.3%;
@@ -314,6 +329,10 @@
   max-height: 100%;
   width: 100%;
   object-fit: cover;
+}
+.orangutan-borneo {
+  font-weight: 800;
+  font-family: Inter;
 }
 .hutan-ini-adalah-container {
   position: absolute;
@@ -585,10 +604,6 @@
   font-size: 16.5px;
   color: #fff;
   font-family: Inter;
-}
-.sumber {
-  margin: 0;
-  font-weight: 800;
 }
 .world-resources-institute {
   margin: 0;
